@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+*.env
+venv/
+ENV/
+
+# Database (local data, not for repo)
+*.db
+*.sqlite
+*.sqlite3
+
+# Config (may contain sensitive paths)
+config.json
+
+# Logs
+logs/
+*.log
+
+# Data directory (runtime, auto-created on first launch)
+data/
+
+# Temporary files
+*.tmp
+_temp/
